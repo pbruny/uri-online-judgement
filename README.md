@@ -1,4 +1,4 @@
-# Uri Online Judgement Solution
+# Uri Online Judge Solution
 
 ## This repository have solutions to the problems in [Uri Online Judge](https://www.urionlinejudge.com.br)
 

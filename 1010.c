@@ -11,6 +11,6 @@ int main() {
     total = piece1 * price1 + piece2 * price2;
 
     printf("VALOR A PAGAR: R$ %.2f\n", total);
-
+    printf("thanks.\n")
     return 0;
 }
